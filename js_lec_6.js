@@ -46,7 +46,14 @@ document.write("<br><h1>Math Object</h1><br>");
 
 document.write(Math.PI);
 
+document.write("<br><h1>JavaScript Object</h1><br>");
 
+var p = {name: "ABC", age: 31};
+
+/*
+objectName.propertyName
+objectName['propertyName']
+*/
 
 
 
